@@ -1,0 +1,78 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/work/mcop/adapter-mock" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/assets-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/conf-manager" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/domain" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/flight-dynamics" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/gsn-connector" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/ingress-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/inventory-manager" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/mission-planner" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/planning-advisories-provider" value="PREVIEW" />
+            <entry key="$USER_HOME$/work/mcop/telemetry-service" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <DBN-PSQL>
+            <case-options enabled="true">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false" />
+          </DBN-PSQL>
+          <DBN-SQL>
+            <case-options enabled="true">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false">
+              <option name="STATEMENT_SPACING" value="one_line" />
+              <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+              <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+            </formatting-settings>
+          </DBN-SQL>
+          <DBN-PSQL>
+            <case-options enabled="true">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false" />
+          </DBN-PSQL>
+          <DBN-SQL>
+            <case-options enabled="true">
+              <option name="KEYWORD_CASE" value="lower" />
+              <option name="FUNCTION_CASE" value="lower" />
+              <option name="PARAMETER_CASE" value="lower" />
+              <option name="DATATYPE_CASE" value="lower" />
+              <option name="OBJECT_CASE" value="preserve" />
+            </case-options>
+            <formatting-settings enabled="false">
+              <option name="STATEMENT_SPACING" value="one_line" />
+              <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+              <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+            </formatting-settings>
+          </DBN-SQL>
+        </code_scheme>
+      </component>
+    </defaultProject>
+  </component>
+</application>
