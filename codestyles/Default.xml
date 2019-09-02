@@ -71,7 +71,7 @@
   <codeStyleSettings language="EditorConfig">
     <option name="SPACE_BEFORE_COLON" value="true" />
     <option name="SPACE_AFTER_COLON" value="true" />
-    <option name="SOFT_MARGINS" value="80" />
+    <option name="SOFT_MARGINS" value="120" />
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
