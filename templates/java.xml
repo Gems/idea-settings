@@ -8,4 +8,10 @@
       <option name="JAVA_STRING" value="false" />
     </context>
   </template>
+  <template name="req-inject" value="@RequiredArgsConstructor(onConstructor = @__(@Inject))" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
